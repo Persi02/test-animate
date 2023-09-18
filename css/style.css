@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 h4 {
